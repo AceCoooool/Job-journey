@@ -25,6 +25,7 @@
 |    美团内推    | 二维码：[牛客网---张洋](https://www.nowcoder.com/discuss/85213) |   不详   |     来自[牛客网](https://www.nowcoder.com/discuss/85213)     |
 |    菜鸟网络    |               邮箱： qinjie.qj@alibaba-inc.com               |   不详   |     来自[牛客网](https://www.nowcoder.com/discuss/85197)     |
 |    虹软内推    |   二维码：[牛客网](https://www.nowcoder.com/discuss/85191)   |   不详   |     来自[牛客网](https://www.nowcoder.com/discuss/85191)     |
+|      CVTE      |             [投递链接](http://campus.cvte.com/)              |   7.21   |                             官网                             |
 
 ## 获取招聘信息渠道
 
