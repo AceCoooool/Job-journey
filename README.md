@@ -31,6 +31,9 @@
 | 蚂蚁金服中间件  |               邮箱： boxue.ybx@alibaba-inc.com               |   不详   | 来自[每日校招](https://mp.weixin.qq.com/s?__biz=MjM5Nzc5MjM0NQ==&mid=2247484999&idx=1&sn=ef91660a417726f63ffe3eddf5862b70&pass_ticket=i%2FPaRLCo0yx4qiKvwulhkS2t3kBUnhpdHKBHNjRoaDwoodQSZiEABZqk1mPyd%2BZY) |
 |    中泰证券     |                   邮箱： liumm@zts.com.cn                    |   不详   | 来自[每日校招](https://mp.weixin.qq.com/s?__biz=MjM5Nzc5MjM0NQ==&mid=2247484999&idx=1&sn=ef91660a417726f63ffe3eddf5862b70&pass_ticket=i%2FPaRLCo0yx4qiKvwulhkS2t3kBUnhpdHKBHNjRoaDwoodQSZiEABZqk1mPyd%2BZY) |
 |    趋势科技     |        [投递链接](http://trendmicro.zhiye.com/campus)        |   不详   | 来自[每日校招](https://mp.weixin.qq.com/s?__biz=MjM5Nzc5MjM0NQ==&mid=2247484999&idx=1&sn=ef91660a417726f63ffe3eddf5862b70&pass_ticket=i%2FPaRLCo0yx4qiKvwulhkS2t3kBUnhpdHKBHNjRoaDwoodQSZiEABZqk1mPyd%2BZY) |
+|    京东秋招     |            [投递链接](http://campus.jd.com/home)             |   不详   |                             官网                             |
+|    顺丰科技     | [投递链接](http://campus.sf-tech.com.cn/campusRecruitment/Default.html?p=28161132046) |          |                             官网                             |
+|     唯品会      |              [投递链接](http://campus.vip.com/)              |          |                             官网                             |
 
 ## 获取招聘信息渠道
 
