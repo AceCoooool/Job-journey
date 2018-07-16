@@ -34,6 +34,8 @@
 |    京东秋招     |            [投递链接](http://campus.jd.com/home)             |   不详   |                             官网                             |
 |    顺丰科技     | [投递链接](http://campus.sf-tech.com.cn/campusRecruitment/Default.html?p=28161132046) |          |                             官网                             |
 |     唯品会      |              [投递链接](http://campus.vip.com/)              |          |                             官网                             |
+|    阿里巴巴     |       [投递链接](https://campus.alibaba.com/index.htm)       |          |                             官网                             |
+|    同城艺龙     | [投递链接](http://promotion.elong.com/index/cn/campus/yjszp.html?type=zpgw) |          |                             官网                             |
 
 ## 获取招聘信息渠道
 
